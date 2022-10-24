@@ -6,7 +6,12 @@ Vergeben:
 - Kalender
 - Ernährungstool
 - Spielesammlung mit Highscore (TicTacToe, 4Gewinnt, ...)
+- Kartenspiel 'Werwolf'
+- Fitness-/Workouttracker
+
 
 Angefragt:
-- Schach
-- Kartenspiel 'Werwolf'
+- Poker
+- CSV-Editor
+- Minesweeper
+- Age Of Sigmar Companion
