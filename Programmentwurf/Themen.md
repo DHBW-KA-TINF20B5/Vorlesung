@@ -1,4 +1,4 @@
-Vergeben:
+### Vergeben:
 - Portfolio Performance Erweiterung
 - Sudoku
 - Event/Terminmanager
@@ -8,10 +8,15 @@ Vergeben:
 - Spielesammlung mit Highscore (TicTacToe, 4Gewinnt, ...)
 - Kartenspiel 'Werwolf'
 - Fitness-/Workouttracker
-
-
-Angefragt:
+- Textbasiertes RPG
 - Poker
-- CSV-Editor
+- Exploding Kittens
+- UNO
+
+
+### Angefragt:
 - Minesweeper
 - Age Of Sigmar Companion
+- Laufschrift Konsole
+
+
