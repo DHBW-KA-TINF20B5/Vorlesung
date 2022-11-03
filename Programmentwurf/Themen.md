@@ -12,11 +12,14 @@
 - Poker
 - Exploding Kittens
 - UNO
+- lokale Git-Repository-Verwaltung ("GitAre?")
+- Age Of Sigmar Companion
+- Laufschrift Konsole
 
 
 ### Angefragt:
 - Minesweeper
-- Age Of Sigmar Companion
-- Laufschrift Konsole
+- Adressbuch
+- Inventurapp / Onlineshop
 
 
