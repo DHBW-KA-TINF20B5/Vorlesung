@@ -24,3 +24,13 @@
   - Polymorphism
   - Pure Fabrication
   - Indirection
+
+## 3.11.2022 - Mueller
+- GRASP
+  - Protected Variants
+  - Controller
+  - Creator
+- Listener-Pattern
+  - 'Problem 6: Zustandschaos' übersprungen
+  - 'Alternativen' übersprungen
+  - sonst vollständig
