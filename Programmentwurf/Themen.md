@@ -15,11 +15,10 @@
 - lokale Git-Repository-Verwaltung ("GitAre?")
 - Age Of Sigmar Companion
 - Laufschrift Konsole
+- Adressbuch
+- Inventurapp / Onlineshop
 
 
 ### Angefragt:
 - Minesweeper
-- Adressbuch
-- Inventurapp / Onlineshop
-
 
