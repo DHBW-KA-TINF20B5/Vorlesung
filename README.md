@@ -34,3 +34,13 @@
   - 'Problem 6: Zustandschaos' übersprungen
   - 'Alternativen' übersprungen
   - sonst vollständig
+
+# 21.2.2023 - Mueller
+- Software-Architektur
+  - bis einschließlich Schichtmodell
+
+# 28.2.2023 - Mueller
+- Software-Architektur
+  - komplett
+- Refactoring
+  - bis einschließlich Lokalitätsprinzip
