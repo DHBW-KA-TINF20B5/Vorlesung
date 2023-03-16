@@ -44,3 +44,15 @@
   - komplett
 - Refactoring
   - bis einschließlich Lokalitätsprinzip
+
+# 7.3.2023 - Mueller
+- Refactoring
+  - bis zum Vorletzten Refactoring
+
+# 14.3.2023 - Mueller
+- Refactoring
+  - komplett
+- Entwurfsmuster
+  - komplett
+- API-Design
+  - Einleitung
